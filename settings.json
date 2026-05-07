@@ -23,7 +23,7 @@
       "password": "Akshad"
     },
     "anti-afk": {
-      "enabled": false,
+      "enabled": true,
       "sneak": true
     },
     "chat-messages": {
@@ -42,7 +42,7 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": false,
+    "enabled": true,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
