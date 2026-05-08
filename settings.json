@@ -1,8 +1,8 @@
 {
-  "name": "W1vraX",
+  "name": "W2vraX",
   "bot-account": {
-    "username": "W1vraX",
-    "password": "Akshad",
+    "username": "W2vraX",
+    "password": "akshad",
     "type": "offline"
   },
   "server": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Akshad"
+      "password": "akshad"
     },
     "anti-afk": {
       "enabled": true,
